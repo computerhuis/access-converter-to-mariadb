@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+    <appender name="stdout" class="ch.qos.logback.core.ConsoleAppender">
+        <encoder>
+            <!-- PATTERN: http://logback.qos.ch/manual/layouts.html#conversionWord -->
+            <pattern>%date %-5level [%thread][%logger{0}:%line] %message%n</pattern>
+        </encoder>
+    </appender>
+
+    <!--    <logger name="com.gitlab.computerhuis.dco" level="trace"/>-->
+
+    <root level="debug">
+        <appender-ref ref="stdout"/>
+    </root>
+</configuration>

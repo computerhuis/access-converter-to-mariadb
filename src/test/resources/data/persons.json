@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "initials": "DM",
+        "first_name": "Data",
+        "infix": "",
+        "last_name": "Migratie",
+        "date_of_birth": "1970-01-01",
+        "email": "",
+        "mobile": "",
+        "telephone": "",
+        "postal_code": "5213BB",
+        "street": "Lucas van Leijdenstraat",
+        "house_number": 27,
+        "house_number_addition": "",
+        "city": "'s-Hertogenbosch",
+        "comments": "",
+        "registered": "2020-01-01T00:00:00"
+    },
+    {
+        "id": 2,
+        "initials": "R",
+        "first_name": "Ron",
+        "infix": "",
+        "last_name": "Lievens",
+        "date_of_birth": "1978-08-15",
+        "email": "ron.lievens@gmail.com",
+        "mobile": "0612385192",
+        "telephone": "",
+        "postal_code": "5236WK",
+        "street": "Veldpad",
+        "house_number": 3,
+        "house_number_addition": "",
+        "city": "",
+        "comments": "2020-01-01T00:00:00",
+        "registered": "2020-01-01T00:00:00"
+    }
+]
